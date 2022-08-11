@@ -1,0 +1,11 @@
+body {
+    background: mediumaquamarine;
+}
+div {
+    background: #ffffff;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #cccccc;
+    margin: 30px auto;
+}
